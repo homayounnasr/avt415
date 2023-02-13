@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {font-size: 100%;} /*16px*/
+
+body {
+  background-color: rgb(185, 214, 240);
+  color: #3e2d2d;
+  margin: 0;
+  padding: 50px;
+  line-height: 1.75;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  ;
+}
+
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 5em;
+}
+
+h2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 3em;
+
+}
+
+h4 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.5em;
+margin-top: 0;
+
+}
+
+dt {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 2em;
+	font-weight: bold;
+}

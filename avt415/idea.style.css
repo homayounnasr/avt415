@@ -1,0 +1,122 @@
+
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sample-map {
+  width: 100%;
+  background: pink;
+  height: 200px;
+}
+img{display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+.next {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 19px;
+  text-align: left;
+}
+
+.next1 {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  text-align: left;
+  font-style: bold;
+}
+
+.next2 {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 19px;
+  text-align: left;
+}
+.next3 {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 10px;
+  text-align: left;
+}
+table {
+  border-collapse: collapse;
+}
+
+figure {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+figure img {
+  width: 100%;
+}
+.button {
+  border: none;
+  color: rgb(160, 21, 21);
+  padding: 50px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 45px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  text-align: center;
+}
+
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  text-align: center;
+}
+
+
+h1,h2,h3 {
+     text-align: center;
+ 
+}
+
+    table{
+      margin: 0 auto;
+    }
+
+
+
+/* 
+*/
+figcaption{
+  background: rgb(185, 214, 240);
+  color: white;
+  padding: 10px;
+  font-size: 13px, bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: bold;
+  text-align: left;
+}
+
